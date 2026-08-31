@@ -2782,7 +2782,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "清除通过重定向设置到已知跟踪网站的 Cookie。"
+            "value" : "清除在重定向至已知跟踪网站时设置的 Cookie。"
           }
         },
         "zh-Hant" : {
@@ -8450,7 +8450,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "启用数字指纹跟踪程序防护，有助于阻止可疑程序。"
+            "value" : "启用数字指纹跟踪防护，以拦截存疑的数字指纹跟踪程序。"
           }
         },
         "zh-Hant" : {
@@ -12508,7 +12508,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "限制社交网络在网上跟踪您浏览活动的能力。"
+            "value" : "限制社交网络跨网站跟踪您的浏览活动。"
           }
         },
         "zh-Hant" : {
@@ -17004,7 +17004,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "停止加载包含跟踪代码的广告、视频和其他内容。可能会影响某些网站功能。"
+            "value" : "阻止加载含有跟踪代码的外部广告、视频及其他内容。这可能会影响网站的部分功能。"
           }
         },
         "zh-Hant" : {
@@ -18582,7 +18582,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "更强的跟踪保护与更快的性能，但可导致某些网站的运作不正常。"
+            "value" : "提供更强的跟踪保护和更快的浏览速度，但某些网站可能无法正常运行。"
           }
         },
         "zh-Hant" : {
@@ -19544,7 +19544,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "要求网站不共享和不出售我的数据"
+            "value" : "要求网站不要共享或出售我的数据"
           }
         },
         "zh-Hant" : {
@@ -20046,7 +20046,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "“全方位 Cookie 保护”能够完全隔离每个网站的 Cookie，阻止像广告联盟等这类跟踪器借其跨站跟踪您。"
+            "value" : "“全方位 Cookie 保护”会将 Cookie 隔离在您当前访问的网站内，使广告网络等跟踪器无法利用这些 Cookie 跨站跟踪您。"
           }
         },
         "zh-Hant" : {

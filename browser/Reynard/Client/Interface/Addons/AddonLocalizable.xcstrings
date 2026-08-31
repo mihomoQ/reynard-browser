@@ -481,7 +481,7 @@
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
-            "value": "无法安装“%@”，因为其只能由采用企业策略的组织安装，而此平台未支持企业策略。"
+            "value": "无法安装“%@”，因为它只能由使用企业策略的组织安装，而此平台不支持这种安装方式。"
           }
         },
         "zh-Hant": {
@@ -990,7 +990,7 @@
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
-            "value": "“%@”未能安装，因为它与 Reynard 不兼容。"
+            "value": "无法安装“%@”，因为它与此版本的 Reynard 不兼容。"
           }
         },
         "zh-Hant": {
@@ -6089,7 +6089,7 @@
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
-            "value": "访问您用于 %@ 的数据"
+            "value": "访问您在 %@ 上的数据"
           }
         },
         "zh-Hant": {
@@ -8133,7 +8133,7 @@
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
-            "value": "访问您在其他网站的数据"
+            "value": "访问您在其他域名下的数据"
           }
         },
         "zh-Hant": {
@@ -9204,7 +9204,7 @@
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
-            "value": "访问您用于 %@ 域名的网站的数据"
+            "value": "访问您在 %@ 域名下网站中的数据"
           }
         },
         "zh-Hant": {
@@ -14716,7 +14716,7 @@
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
-            "value": "下载 AI 模型到您的设备并运行"
+            "value": "在您的设备上下载并运行 AI 模型"
           }
         },
         "zh-Hant": {
@@ -19488,7 +19488,7 @@
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
-            "value": "输入数据到剪贴板"
+            "value": "将数据写入剪贴板"
           }
         },
         "zh-Hant": {
@@ -20624,7 +20624,7 @@
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
-            "value": "监控扩展使用情况和管理主题"
+            "value": "监控扩展使用情况并管理主题"
           }
         },
         "zh-Hant": {
@@ -21270,7 +21270,7 @@
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
-            "value": "打开下载至您设备的文件"
+            "value": "打开已下载到您设备上的文件"
           }
         },
         "zh-Hant": {
@@ -33331,7 +33331,7 @@
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
-            "value": "开发者称此扩展无需收集数据。"
+            "value": "开发者表示此扩展不会收集数据。"
           }
         },
         "zh-Hant": {
